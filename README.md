@@ -16,3 +16,10 @@ For this project, I combined two datasets from Kaggle:
 - [1.2 million song features from Spotify](https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs)
 
 After merging the datasets and limiting to only pop songs from the 1970s-2020, I had about 46,000 rows, each representing a song.
+
+## Project Overview
+
+After cleaning the text, I clustered the song lyrics in each decade to find themes. I looked at the top 10 words in each cluster
+and created a WordCloud of each decade and the lyrics overall. 
+
+<IMG SRC = "https://github.com/courtneydrysdale/msds692_practicum/blob/main/Images/lyric_wordcloud.png" width="500">
