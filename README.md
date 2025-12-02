@@ -22,6 +22,6 @@ After merging the datasets and limiting to only pop songs from the 1970s-2020, I
 After cleaning the text, I clustered the song lyrics in each decade to find themes. I looked at the top 10 words in each cluster
 and created a WordCloud of each decade and the lyrics overall. 
 
-<CENTER><IMG SRC = "https://github.com/courtneydrysdale/msds696_practicum/blob/main/images/lyric_wordcloud.png" width="500">
+<CENTER><IMG SRC = "https://github.com/courtneydrysdale/msds696_practicum/blob/main/images/lyrics_wordcloud.png">
 
 <IMG SRC = "https://github.com/courtneydrysdale/msds696_practicum/blob/main/images/songs_per_decade.png" width="500"></CENTER>
